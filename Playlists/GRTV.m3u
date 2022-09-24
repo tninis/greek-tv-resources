@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERT1.gr" tvg-name="ERT 1" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ert1.png",ERT1 HD
-https://ert1-live.ert.insyscd.net/out/v1/6370627d34c04383a7b3dfb5c53e7db9/ert1-live_1.m3u8
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/ert_ev1_main/main_1080/chunks.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERT2.gr" tvg-name="ERT 2" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ert2.png",ERT2 HD
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert4/ert_ev4_main/mainabr/ert_ev4_main/main_1080/chunks.m3u8
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/ert_ev2_main/main_1080/chunks.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERT3.gr" tvg-name="ERT 3" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ert3.png",ERT3 HD
-https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2Mbps.m3u8
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/ert_ev3_main/main_1080/chunks.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="AlphaTV.gr" tvg-name="ALPHA" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/alpha.png",ALPHA
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/cz2fpdj6/2728/chunklist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Ant1.gr" tvg-name="ANT1" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ant1.png",ANT1
@@ -28,9 +28,9 @@ https://kontralive.siliconweb.com/live/kontratv/chunklist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Voyli.gr" tvg-name="VOULI" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/vouli.png",VOULI
 https://streamer-cache.grnet.gr/parliament/hls/webtv_1280_960x540/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTWorld.gr" tvg-name="ERT World" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertworld.png",ERT World
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/manifest.mpd
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/ert_world_main/main_1080/chunks.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTSports.gr" tvg-name="ERT Sports" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertsports.png",ERT SPORTS
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww_4Mbps.m3u8
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/ert_sports1_main/main_1080/chunks.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="SuperB.gr" tvg-name="SUPER B" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/superb.png",SUPER B
 https://til.pp.ua:3424/live/superblive.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-id="NetmaxTV.gr" tvg-name="NETMAX TV" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/netmax.png",NETMAX TV
