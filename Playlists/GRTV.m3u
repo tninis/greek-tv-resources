@@ -7,10 +7,6 @@ https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/ert
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/ert_ev3_main/main_1080/chunks.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="AlphaTV.gr" tvg-name="ALPHA" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/alpha.png",ALPHA
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/cz2fpdj6/2728/chunklist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Ant1.gr" tvg-name="ANT1" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ant1.png",ANT1
-https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="mtv.gr" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/mtv.png",MAKEDONIA TV
-https://antennaamdnoenc.akamaized.net/maktv_akamai/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="StarChannel.gr" tvg-name="STAR" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/star.png",STAR
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="OpenTV.gr" tvg-name="OPEN" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/open.png",OPEN
@@ -41,8 +37,6 @@ https://live.streams.ovh/NetvToronto/NetvToronto/chunklist_w1161009281.m3u8
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="34100Tv.gr" tvg-name="34100 TV" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/34100tv.png",34100 TV
 https://s1.cystream.net/live/34100/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="ArtTv.gr" tvg-name="ΑΡΤ" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/arttv.png",APT
-http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="High.gr" tvg-name="HIGH TV" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/high.png",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-id="smiletvcyprus.com" tvg-name="SmileTV" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/smiletv.png",SmileTV
