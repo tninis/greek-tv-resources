@@ -43,7 +43,5 @@ http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 https://s1.cystream.net/live/smile/chunks.m3u8
 #EXTINF:-1 group-title="ΣΙΝΕΜΑ" tvg-id="galaxytv.gr" tvg-name="GalaxyTV" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/galaxytv.png",GalaxyTV
 https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
-#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="naftemporiki.gr" tvg-name="ΝaftemporikiTV" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/naftemporiki.png",ΝaftemporikiTV
-https://188125-castr.akamaized.net/631af9c016e5eace19ff9a5b/live_1395f0f0301a11edbe930342f38886b5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="alerttv.com.gr" tvg-name="AlertTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/alerttv.png",AlertTv
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
