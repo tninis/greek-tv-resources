@@ -31,8 +31,8 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv_1280_960x540/index.m3u8
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/ert_world_main/main_1080/chunks.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTSports.gr" tvg-name="ERT Sports" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertsports.png",ERT SPORTS
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/ert_sports1_main/main_1080/chunks.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="SuperB.gr" tvg-name="SUPER B" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/superb.png",SUPER B
-https://til.pp.ua:3424/live/superblive.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="pronews.gr" tvg-name="Pro News Tv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/pronews.png",Pro News Tv
+https://storemusic.top:8222/pronewstv/pronewstv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-id="NetmaxTV.gr" tvg-name="NETMAX TV" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/netmax.png",NETMAX TV
 http://live.netmaxtv.com:8080/live/live/chunklist_w476811449.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-id="TorontoNetTv.gr" tvg-name="NETV TORONTO HD" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/nettvtoronto.png",NETV TORONTO HD
