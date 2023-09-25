@@ -34,7 +34,7 @@ https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/main
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="pronews.gr" tvg-name="Pro News Tv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/pronews.png",Pro News Tv
 https://di-8zai2lrc.leasewebultracdn.com/pronews/ngrp:myStream_all/chunklist_b3096000.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-id="NetmaxTV.gr" tvg-name="NETMAX TV" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/netmax.png",NETMAX TV
-https://live.netmaxtv.com:8080/live/live/chunklist_w1444960010.m3u8
+https://live.netmaxtv.com:8081/live/live/chunklist_w953132441.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-id="TorontoNetTv.gr" tvg-name="NETV TORONTO HD" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/nettvtoronto.png",NETV TORONTO HD
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/chunklist_w1542408512.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="DiavataTv.gr" tvg-name="DIAVATA TV HD" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/diavatatv.png",DIAVATA TV HD
