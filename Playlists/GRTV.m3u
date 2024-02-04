@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERT1.gr" tvg-name="ERT 1" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ert1.png",ERT1 HD
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/ert_ev1_main/main_1080/chunks.m3u8
+https://telmacosa.s.llnwi.net/osY/ERT/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERT2.gr" tvg-name="ERT 2" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ert2.png",ERT2 HD
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/ert_ev2_main/main_1080/chunks.m3u8
+https://telmacosa.s.llnwi.net/osY/ERT2/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERT3.gr" tvg-name="ERT 3" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ert3.png",ERT3 HD
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/ert_ev3_main/main_1080/chunks.m3u8
+https://telmacosa.s.llnwi.net/osY/ERT3/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="AlphaTV.gr" tvg-name="ALPHA" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/alpha.png",ALPHA
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Ant1.gr" tvg-name="ANT1" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ant1.png",ANT1
