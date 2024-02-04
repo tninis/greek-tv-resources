@@ -27,6 +27,8 @@ https://web.onair-radio.eu/groovytv/groovytv/chunklist_w1859804103.m3u8
 https://kontralive.siliconweb.com/live/kontratv/chunklist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Voyli.gr" tvg-name="VOULI" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/vouli.png",VOULI
 https://streamer-cache.grnet.gr/parliament/hls/webtv_1280_960x540/index.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTNews.gr" tvg-name="ERT News" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertnews.png",ERT News
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/ert_news_main/main_1080/chunks_dvr.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTWorld.gr" tvg-name="ERT World" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertworld.png",ERT World
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/ert_world_main/main_1080/chunks.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTSports.gr" tvg-name="ERT Sports" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertsports.png",ERT SPORTS
