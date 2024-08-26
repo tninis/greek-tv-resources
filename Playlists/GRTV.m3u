@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERT1.gr" tvg-name="ERT 1" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ert1.png",ERT1 HD
-https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24613/index.mpd
+https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERT2.gr" tvg-name="ERT 2" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ert2.png",ERT2 HD
-https://ertflix.s.llnwi.net/ertlive/ert2/default/index.mpd
+https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24724c/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERT3.gr" tvg-name="ERT 3" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ert3.png",ERT3 HD
-https://ertflix.s.llnwi.net/ertlive/ert3/default/index.mpd
+https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24723a/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="AlphaTV.gr" tvg-name="ALPHA" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/alpha.png",ALPHA
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Ant1.gr" tvg-name="ANT1" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ant1.png",ANT1
@@ -32,7 +32,7 @@ https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTWorld.gr" tvg-name="ERT World" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertworld.png",ERT World
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTSports.gr" tvg-name="ERT Sports" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertsports.png",ERT SPORTS
-https://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.mpd
+https://ertflix.s.llnwi.net/ertlive/ertsports1/clrdef24724a/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTKidstv.gr" tvg-name="ERT Kids Tv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertflix_kidstv.png",ERT Kids Tv
 https://ertflix.s.llnwi.net/ertlive/kids/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTMusictv.gr" tvg-name="ERT Music Tv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertflix_musictv.png",ERT Music Tv
