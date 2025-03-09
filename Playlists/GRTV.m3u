@@ -53,3 +53,5 @@ https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 https://neon.streams.gr:8081/epsilontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="action24.gr" tvg-name="Action24" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/action24.png",Action24
 https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/chunks.m3u8
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="tvcreta.gr" tvg-name="Action24" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/cretatv.png",TvCreta
+https://live.streams.ovh/tvcreta/tvcreta/chunklist_w762518953.m3u8
