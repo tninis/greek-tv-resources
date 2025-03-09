@@ -29,6 +29,8 @@ https://kontralive.siliconweb.com/live/kontratv/kontralive/kontratv/chunks.m3u8
 https://ertflix.akamaized.net/ertlive/vouli/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTNews.gr" tvg-name="ERT News" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertnews.png",ERT News
 https://ertflix.akamaized.net/ertlive/ertnews/default/index.mpd
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="euronews.gr" tvg-name="Action24" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/euronewsgr.png",Euro News GR
+https://ertflix.akamaized.net/ertlive/euronewsgr/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTWorld.gr" tvg-name="ERT World" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertworld.png",ERT World
 https://ertflix.akamaized.net/ertlive/ertworld/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTSports.gr" tvg-name="ERT Sports" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertsports.png",ERT SPORTS
