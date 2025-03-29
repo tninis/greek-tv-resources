@@ -55,41 +55,41 @@ https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 https://neon.streams.gr:8081/epsilontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="action24.gr" tvg-name="Action24" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/action24.png",Action24
 https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/chunks.m3u8
-#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="tvcreta.gr" tvg-name="tvcreta" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/cretatv.png",TvCreta
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="tvcreta.gr" tvg-name="tvcreta" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/cretatv.png",TV CRETA
 https://live.streams.ovh/tvcreta/tvcreta/chunklist_w762518953.m3u8
-#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="ExtacyTv.gr" tvg-name="ExtacyTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/extacy_tv.png",ExtacyTv
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="ExtacyTv.gr" tvg-name="ExtacyTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/extacy_tv.png",EXTACY TV
 https://fr.crystalweb.net:1936/extacytv/extacytv/chunklist_w388366491.m3u8
-#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="AeolosTv.gr" tvg-name="AeolosTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/aeolos_tv.png",AeolosTv
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="AeolosTv.gr" tvg-name="AeolosTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/aeolos_tv.png",AEOLOS TV
 https://cdn.istoikona.com/aeolostv/live/chunks.m3u8
-#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="SyrosTv1.gr" tvg-name="SyrosTv1" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/syros_tv1.png",SyrosTv1
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="SyrosTv1.gr" tvg-name="SyrosTv1" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/syros_tv1.png",SYROS TV1
 https://eco.streams.ovh:1936/syrostv1/syrostv1/chunklist_w81846523.m3u8
-#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="EpirusTv.gr" tvg-name="EpirusTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ipiros_tv1.png",EpirusTv
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="EpirusTv.gr" tvg-name="EpirusTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ipiros_tv1.png",EPIRUS TV
 https://til.pp.ua:3928/live/epiruslive.m3u8
-#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="BestTv.gr" tvg-name="BestTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/best_tv.png",BestTv
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="BestTv.gr" tvg-name="BestTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/best_tv.png",BEST TV
 https://besttv.siliconweb.com/bestTV/live_abr/bestTV/stream/chunks.m3u8
-#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="ThrakiNET.gr" tvg-name="ThrakiNET" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/thraki_net.png",ThrakiNET
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="ThrakiNET.gr" tvg-name="ThrakiNET" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/thraki_net.png",THRAKI NET
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/chunks.m3u8
-#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="artTv.gr" tvg-name="artTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/art_tv.png",artTv
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="artTv.gr" tvg-name="artTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/art_tv.png",ART
 https://1a-1791.com/live/d5a20b4d/slot-103/mr10-y2g0/chunklist_DVR.m3u8
-#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="verginaTv.gr" tvg-name="verginaTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/vergina_tv.png",verginaTv
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="verginaTv.gr" tvg-name="verginaTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/vergina_tv.png",VERGINA TV
 https://verginanews.gr:8443/hls_live/stream1.m3u8
-#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="dionTv.gr" tvg-name="dionTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/dion_tv.png",dionTv
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="dionTv.gr" tvg-name="dionTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/dion_tv.png",DION TV
 https://til.pp.ua:3156/live/diontvlive.m3u8
-#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="4eTv.gr" tvg-name="4eTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/4e_tv.png",4eTv
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="4eTv.gr" tvg-name="4eTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/4e_tv.png",4E TV
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w996003988_b746000_slEN.m3u8
-#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="euroTv.gr" tvg-name="euroTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/euro_tv.png",euroTv
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="euroTv.gr" tvg-name="euroTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/euro_tv.png",EURO TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/eurochgreece/chunks.m3u8
-#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="egnatiaTv.gr" tvg-name="egnatiaTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/egnatia_tv.png",egnatiaTv
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="egnatiaTv.gr" tvg-name="egnatiaTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/egnatia_tv.png",EGNATIA
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/chunklist_w262579812.m3u8
-#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="pellaTv.gr" tvg-name="pellaTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/pella_tv.png",pellaTv
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="pellaTv.gr" tvg-name="pellaTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/pella_tv.png",PELLA
 https://video.streams.ovh:1936/pellatv/pellatv/chunklist_w1549004722.m3u8
-#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="gnomiTv.gr" tvg-name="gnomiTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/gnomi_tv.png",gnomiTv
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="gnomiTv.gr" tvg-name="gnomiTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/gnomi_tv.png",GNOMI
 https://live.streams.ovh:8081/gnomitv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="atticaTv.gr" tvg-name="atticaTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/attica_tv.png",atticaTv
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="atticaTv.gr" tvg-name="atticaTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/attica_tv.png",ATTICA
 https://atticatv.siliconweb.com/atticatv/atticaliveabr/atticatv/atticalive/chunks.m3u8
-#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="telekritiTv.gr" tvg-name="telekritiTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/telekriti_tv.png",telekritiTv
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="telekritiTv.gr" tvg-name="telekritiTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/telekriti_tv.png",TELEKRITI
 https://neon.streams.gr:8081/telekriti/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="starcenterTv.gr" tvg-name="starcenterTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/star_center_gr.png",starcenterTv
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="starcenterTv.gr" tvg-name="starcenterTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/star_center_gr.png",STAR CENTER GR
 https://telmaco-cdn.akamaized.net/starcgr/default/index.mpd
-#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="enachannelTv.gr" tvg-name="enachannelTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ena_channel.png",enachannelTv
+#EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="enachannelTv.gr" tvg-name="enachannelTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ena_channel.png",ENA CHANNEL
 https://cdn5.smart-tv-data.com/local/ena_channel/chunks.m3u8
