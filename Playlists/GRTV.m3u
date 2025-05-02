@@ -74,7 +74,7 @@ https://1a-1791.com/live/gke17oc4/slot-151/137j-17qs/chunklist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="verginaTv.gr" tvg-name="verginaTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/vergina_tv.png",VERGINA TV
 https://verginanews.gr:8443/hls_live/stream1.m3u8
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="dionTv.gr" tvg-name="dionTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/dion_tv.png",DION TV
-https://til.pp.ua:3156/live/diontvlive.m3u8
+https://rtmp.win:3650/live/diontvlive.m3u8
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="4eTv.gr" tvg-name="4eTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/4e_tv.png",4E TV
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w996003988_b746000_slEN.m3u8
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="euroTv.gr" tvg-name="euroTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/euro_tv.png",EURO TV
