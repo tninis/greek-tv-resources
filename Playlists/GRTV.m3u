@@ -70,7 +70,7 @@ https://besttv.siliconweb.com/bestTV/live_abr/bestTV/stream/chunks.m3u8
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="ThrakiNET.gr" tvg-name="ThrakiNET" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/thraki_net.png",THRAKI NET
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/chunks.m3u8
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="artTv.gr" tvg-name="artTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/art_tv.png",ART
-https://1a-1791.com/live/d5a20b4d/slot-103/mr10-y2g0/chunklist_DVR.m3u8
+https://1a-1791.com/live/gke17oc4/slot-151/137j-17qs/chunklist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="verginaTv.gr" tvg-name="verginaTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/vergina_tv.png",VERGINA TV
 https://verginanews.gr:8443/hls_live/stream1.m3u8
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="dionTv.gr" tvg-name="dionTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/dion_tv.png",DION TV
