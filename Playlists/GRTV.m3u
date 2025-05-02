@@ -44,7 +44,7 @@ https://live.netmaxtv.com:1936/live/live/chunklist_w109127472.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-id="TorontoNetTv.gr" tvg-name="NETV TORONTO HD" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/nettvtoronto.png",NETV TORONTO HD
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/chunklist_w1542408512.m3u8
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="DiavataTv.gr" tvg-name="DIAVATA TV HD" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/diavatatv.png",DIAVATA TV HD
-https://fl1002.bozztv.com/ssh101/diavatatvweb/tracks-v1a1/mono.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/diavatatvweb/chunks.m3u8
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="High.gr" tvg-name="HIGH TV" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/high.png",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-id="smiletvcyprus.com" tvg-name="SmileTV" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/smiletv.png",SmileTV
