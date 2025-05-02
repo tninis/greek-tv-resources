@@ -64,7 +64,7 @@ https://cdn.istoikona.com/aeolostv/live/chunks.m3u8
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="SyrosTv1.gr" tvg-name="SyrosTv1" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/syros_tv1.png",SYROS TV1
 https://eco.streams.ovh:1936/syrostv1/syrostv1/chunklist_w81846523.m3u8
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="EpirusTv.gr" tvg-name="EpirusTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ipiros_tv1.png",EPIRUS TV
-https://til.pp.ua:3928/live/epiruslive.m3u8
+https://rtmp.win:3929/live/epiruslive.m3u8
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="BestTv.gr" tvg-name="BestTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/best_tv.png",BEST TV
 https://besttv.siliconweb.com/bestTV/live_abr/bestTV/stream/chunks.m3u8
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="ThrakiNET.gr" tvg-name="ThrakiNET" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/thraki_net.png",THRAKI NET
