@@ -58,7 +58,7 @@ https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="tvcreta.gr" tvg-name="tvcreta" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/cretatv.png",TV CRETA
 https://live.streams.ovh/tvcreta/tvcreta/chunklist_w762518953.m3u8
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="ExtacyTv.gr" tvg-name="ExtacyTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/extacy_tv.png",EXTACY TV
-https://fr.crystalweb.net:1936/extacytv/extacytv/chunklist_w388366491.m3u8
+https://live20.bozztv.com/giatv/giatv-extacytv/extacytv/chunks.m3u8
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="AeolosTv.gr" tvg-name="AeolosTv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/aeolos_tv.png",AEOLOS TV
 https://cdn.istoikona.com/aeolostv/live/chunks.m3u8
 #EXTINF:-1 group-title="ΔΙΑΦΟΡΑ" tvg-id="SyrosTv1.gr" tvg-name="SyrosTv1" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/syros_tv1.png",SYROS TV1
