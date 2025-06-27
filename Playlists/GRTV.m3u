@@ -16,7 +16,7 @@ https://livestar.siliconweb.com/starvod/star4/star4newhd.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="OpenTV.gr" tvg-name="OPEN" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/open.png",OPEN
 https://liveopen.siliconweb.com/openTvLive/liveopen/chunks.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="MegaTV.gr" tvg-name="MEGA" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/mega.png",MEGA
-https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+https://spark3.smart-tv-data.com/megaHD/megaHD/chunks.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="SKAI.gr" tvg-name="SKAI" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/skai.png",SKAI
 https://skai-live-gr.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp4a.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="OneChannel.gr" tvg-name="ONE" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/one.png",ONE
