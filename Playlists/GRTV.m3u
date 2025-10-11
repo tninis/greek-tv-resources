@@ -8,9 +8,9 @@ https://ertflix-greece.siliconweb.com/cmaf/618618_2341560/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="AlphaTV.gr" tvg-name="ALPHA" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/alpha.png",ALPHA
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Ant1.gr" tvg-name="ANT1" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ant1.png",ANT1
-https://spark3.smart-tv-data.com/ant1HD/ant1HD/chunks.m3u8
+https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="mtv.gr" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/mtv.png",MAKEDONIA TV
-https://spark3.smart-tv-data.com/makHD/makHD/manifest.mpd
+https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="StarChannel.gr" tvg-name="STAR" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/star.png",STAR
 https://livestar.siliconweb.com/starvod/star4/star4newhd.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="OpenTV.gr" tvg-name="OPEN" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/open.png",OPEN
@@ -29,8 +29,6 @@ https://kontralive.siliconweb.com/live/kontratv/kontralive/kontratv/chunks.m3u8
 https://ertflix.akamaized.net/ertlive/vouli/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTNews.gr" tvg-name="ERT News" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertnews.png",ERT News
 https://ertflix.akamaized.net/ertlive/ertnews/default/index.mpd
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="euronews.gr" tvg-name="Action24" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/euronewsgr.png",Euro News GR
-https://ertflix.akamaized.net/ertlive/euronewsgr/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTWorld.gr" tvg-name="ERT World" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertworld.png",ERT World
 https://ertflix.akamaized.net/ertlive/ertworld/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTSports.gr" tvg-name="ERT Sports" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertsports.png",ERT SPORTS
