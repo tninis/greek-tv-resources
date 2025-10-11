@@ -30,7 +30,7 @@ https://ertflix.akamaized.net/ertlive/vouli/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTNews.gr" tvg-name="ERT News" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertnews.png",ERT News
 https://ertflix.akamaized.net/ertlive/ertnews/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTWorld.gr" tvg-name="ERT World" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertworld.png",ERT World
-https://ertflix.akamaized.net/ertlive/ertworld/default/index.mpd
+https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/media_mpegts_3.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTSports.gr" tvg-name="ERT Sports" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertsports.png",ERT SPORTS
 https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTKidstv.gr" tvg-name="ERT Kids Tv" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertflix_kidstv.png",ERT Kids Tv
