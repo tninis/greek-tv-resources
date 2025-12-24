@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERT1.gr" tvg-name="ERT 1" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ert1.png",ERT1 HD
-https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/ERT-audio_104621_und=104400-video=3000000.m3u8
+https://ertflix.ascdn.broadpeak.io/ertlive/ert1/clrdef24723b/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERT2.gr" tvg-name="ERT 2" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ert2.png",ERT2 HD
 https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/media_mpegts_2.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERT3.gr" tvg-name="ERT 3" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ert3.png",ERT3 HD
@@ -28,9 +28,9 @@ https://kontralive.siliconweb.com/live/kontratv/kontralive/kontratv/chunks.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Voyli.gr" tvg-name="VOULI" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/vouli.png",VOULI
 https://ertflix.akamaized.net/ertlive/vouli/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTNews.gr" tvg-name="ERT News" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertnews.png",ERT News
-https://ertflix.akamaized.net/ertlive/ertnews/default/index.mpd
+https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/ERTNews-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTWorld.gr" tvg-name="ERT World" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ertworld.png",ERT World
-https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/media_mpegts_3.m3u8
+https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/media_mpegts_0.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTSports.gr" tvg-name="ERT Sports" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ert-sports-1.png",ERT SPORTS
 https://ertflix-ertsports1.siliconweb.com/cmaf/618618_3479292/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERTSports2.gr" tvg-name="ERT Sports 2" tvg-logo="https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Images/ert-sports-2.png",ERT SPORTS 2
